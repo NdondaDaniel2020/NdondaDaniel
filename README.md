@@ -1,77 +1,88 @@
-## 👋 Oiii, eu sou o Ndonda Daniel
-🎓 Estudante da **42 School**  
+## 👋 Oiii, eu sou o ND Daniel (Manassés)
 💻 Desenvolvedor focado em **Backend, Sistemas, Web e Automação**  
-🚀 Interesse em **Engenharia de Software, DevOps e Computer Vision**
+🚀 Interesse em **Engenharia de Software, DevOps e Visão Computacional**
 
-Sou apaixonado por tecnologia, gosto de aprender construindo projetos reais e já trabalhei com diversas stacks modernas, desde **C/C++ de baixo nível** até **APIs e aplicações web completas**.
-
----
-
-## 🧠 Tecnologias & Ferramentas que já utilizei
-
-### 🔹 Linguagens
-- C / C++
-- Python
-- JavaScript / TypeScript
-- HTML5 / CSS3
-
-### 🔹 Backend
-- **Python:** FastAPI, Flask  
-- **Node.js:** NestJS  
-- Autenticação, APIs REST, JWT, integração com serviços externos
-
-### 🔹 Frontend
-- React
-- HTML5, CSS3
-- WordPress
-
-### 🔹 Desktop
-- PySide6, PySide2, PyQt5
-- Qt (C++)
-
-### 🔹 Visão Computacional & Automação
-- OpenCV (Computer Vision)
-- Automação de tarefas
-- Web Scraping
-
-### 🔹 Bancos de Dados
-- SQLite3
-- MySQL / MariaDB
-- PostgreSQL
-- MongoDB
-- Supabase
-
-### 🔹 DevOps & Ferramentas
-- Git & GitHub
-- Docker
+Gosto de aprender construindo projetos reais, indo do **baixo nível (C/C++)** até **APIs modernas, aplicações web e automação**.
 
 ---
 
-## 🧩 Ícones das Tecnologias
+## 🧩 Tecnologias
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="NestJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
-  <img align="center" alt="FastAPI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+
+<!-- Linguagens -->
+<img align="center" alt="C" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+<img align="center" alt="C++" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+<img align="center" alt="Python" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="JavaScript" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="TypeScript" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+
+<br><br>
+
+<!-- Frontend -->
+<img align="center" alt="HTML5" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="CSS3" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="React" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" alt="WordPress" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
+
+<br><br>
+
+<!-- Backend -->
+<img align="center" alt="FastAPI" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
+<img align="center" alt="Flask" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+<img align="center" alt="NestJS" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
+
+<br><br>
+
+<!-- Desktop -->
+PySide6 • PySide2 • PyQt5  
+<img align="center" alt="Qt" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg">
+
+<br><br>
+
+<!-- Computer Vision / Automação -->
+OpenCV • Automação • Web Scraping
+
+<br><br>
+
+<!-- Bancos de Dados -->
+<img align="center" alt="SQLite" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
+<img align="center" alt="MySQL" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<img align="center" alt="PostgreSQL" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+<img align="center" alt="MongoDB" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+
+<br><br>
+
+MariaDB • Supabase
+
+<br><br>
+
+<!-- DevOps -->
+<img align="center" alt="Git" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<img align="center" alt="GitHub" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+<img align="center" alt="Docker" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+
 </div>
-
----
-
-## 🏫 42 School
-Na **42 School**, desenvolvo projetos focados em:
-- Programação em C e C++
-- Estruturas de dados
-- Algoritmos
-- Trabalho colaborativo
-- Engenharia de Software na prática
 
 ---
 
@@ -88,7 +99,3 @@ Na **42 School**, desenvolvo projetos focados em:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
-
----
-
-⭐ Sempre aberto a aprender, colaborar e construir soluções reais.
