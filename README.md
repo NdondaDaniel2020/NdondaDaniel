@@ -32,12 +32,14 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fas
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
 <img align="center" alt="NestJS" height="30" width="40"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">]
-[<img align="center" alt="Qt" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg">
-PyQt5, PySide6, Qt (C++)]
+[<img align="center" alt="PyQt5" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg">.py
+<img align="center" alt="PySide6" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg">.cpp]
 [<img align="center" alt="OpenCV" height="30" width="40"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg">
-Automação , Web Scraping]
+<img align="center" alt="Bootstrap" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">]
 [<img align="center" alt="SQLite" height="30" width="40"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
 <img align="center" alt="MySQL" height="30" width="40"
