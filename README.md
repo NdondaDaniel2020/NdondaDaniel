@@ -1,74 +1,72 @@
-## 👋 Oiii, eu sou o Ndonda Daniel
-💻 Desenvolvedor focado em **Backend, Sistemas, Web e Automação**  
-🚀 Interesse em **Engenharia de Software, DevOps e Visão Computacional**
+## Olá, eu sou o Ndonda Daniel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+
+Sou um Desenvolvedor focado em **Backend, Sistemas, Web e Automação**.<br>
+Tenho interesse em **Engenharia de Software, DevOps e Visão Computacional**.
 
 Gosto de aprender construindo projetos reais, indo do **baixo nível (C/C++)** até **APIs modernas, aplicações web e automação**.
 
----
-
-## 🧠 Tecnologias & Ferramentas que já utilizei
-<!-- Linguagens -->
-[<img align="center" alt="C" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-<img align="center" alt="C++" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-<img align="center" alt="Python" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="JavaScript" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="TypeScript" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">]
-[<img align="center" alt="HTML5" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="CSS3" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="React" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="WordPress" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">]
-[<img align="center" alt="FastAPI" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
-<img align="center" alt="Flask" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-<img align="center" alt="NestJS" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">]
-[<img align="center" alt="PyQt5" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg">.py
-<img align="center" alt="PySide6" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg">.cpp]
-[<img align="center" alt="OpenCV" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg">
-<img align="center" alt="Bootstrap" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">]
-[<img align="center" alt="SQLite" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-<img align="center" alt="MySQL" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-<img align="center" alt="PostgreSQL" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-<img align="center" alt="MongoDB" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-<img align="center" alt="MariaDB" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg">]
-[<img align="center" alt="Git" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<img align="center" alt="GitHub" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-<img align="center" alt="Docker" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-<img align="center" alt="Kubernetes" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">]
+📚 Atualmente cursando o Common Core (42-cursus) na School 42
 
 ---
 
-## 🌐 Onde me encontrar
+## Isto sou eu em código
 
-<div>
-  <a href="https://github.com/NdondaDaniel2020" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="mailto:ndondadaniel2020@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
+```python
+class NdondaDaniel:
+    def __init__(self):
+        self.name = "Ndonda Daniel"
+        self.focus = ["Backend", "Sistemas", "Web", "Automação"]
+        self.interests = ["Engenharia de Software", "DevOps", "Visão Computacional"]
+        self.motto = "Aprendo construindo — do baixo nível às APIs modernas."
 
+    def run(self):
+        print(self.motto)
+
+if __name__ == "__main__":
+    dev = NdondaDaniel()
+    dev.run()
+```
+
+---
+
+## Linguagens e ferramentas que já utilizei
+
+![C](https://img.shields.io/badge/c-0D1117.svg?style=for-the-badge&logo=c&logoColor=3893F5)
+![C++](https://img.shields.io/badge/c++-0D1117.svg?style=for-the-badge&logo=c%2B%2B&logoColor=9445FC)
+![Python](https://img.shields.io/badge/python-0D1117.svg?style=for-the-badge&logo=python&logoColor=F5D742)
+![JavaScript](https://img.shields.io/badge/javascript-0D1117.svg?style=for-the-badge&logo=javascript&logoColor=F5D742)
+![TypeScript](https://img.shields.io/badge/typescript-0D1117.svg?style=for-the-badge&logo=typescript&logoColor=3893F5)
+![HTML5](https://img.shields.io/badge/html5-0D1117.svg?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/css3-0D1117.svg?style=for-the-badge&logo=css3&logoColor=1572B6)
+![React](https://img.shields.io/badge/react-0D1117.svg?style=for-the-badge&logo=react&logoColor=4C8CD5)
+![FastAPI](https://img.shields.io/badge/fastapi-0D1117.svg?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Flask](https://img.shields.io/badge/flask-0D1117.svg?style=for-the-badge&logo=flask&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-0D1117.svg?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+![OpenCV](https://img.shields.io/badge/opencv-0D1117.svg?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![WordPress](https://img.shields.io/badge/wordpress-0D1117.svg?style=for-the-badge&logo=wordpress&logoColor=21759B)
+![Bootstrap](https://img.shields.io/badge/bootstrap-0D1117.svg?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![SQLite](https://img.shields.io/badge/sqlite-0D1117.svg?style=for-the-badge&logo=sqlite&logoColor=003B57)
+![MySQL](https://img.shields.io/badge/mysql-0D1117.svg?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/postgresql-0D1117.svg?style=for-the-badge&logo=postgresql&logoColor=336791)
+![MongoDB](https://img.shields.io/badge/mongodb-0D1117.svg?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![MariaDB](https://img.shields.io/badge/mariadb-0D1117.svg?style=for-the-badge&logo=mariadb&logoColor=003545)
+![Git](https://img.shields.io/badge/git-0D1117.svg?style=for-the-badge&logo=git&logoColor=F5942C)
+![GitHub](https://img.shields.io/badge/github-0D1117.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-0D1117.svg?style=for-the-badge&logo=docker&logoColor=4C8CD5)
+![Kubernetes](https://img.shields.io/badge/kubernetes-0D1117.svg?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
+![Linux](https://img.shields.io/badge/linux-0D1117.svg?style=for-the-badge&logo=linux&logoColor=F1C604)
+![Shell](https://img.shields.io/badge/shell-0D1117.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+---
+
+## Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NdondaDaniel2020&layout=compact&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NdondaDaniel2020&show_icons=true&theme=gruvbox)
+
+---
+
+## Contato
+
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/NdondaDaniel2020)](https://github.com/NdondaDaniel2020)
+[![Gmail Badge](https://img.shields.io/badge/-ndondadaniel2020@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ndondadaniel2020@gmail.com)](mailto:ndondadaniel2020@gmail.com)
