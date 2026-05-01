@@ -61,7 +61,7 @@ if __name__ == "__main__":
 
 ## Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=NdondaDaniel2020&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NdondaDaniel2020&layout=compact&theme=gruvbox)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=NdondaDaniel2020&show_icons=true&theme=gruvbox)
 
 ---
