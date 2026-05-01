@@ -69,4 +69,5 @@ if __name__ == "__main__":
 ## Contato
 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/NdondaDaniel2020)](https://github.com/NdondaDaniel2020)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)](https://www.linkedin.com/in/ndonda-daniel-matondo-098370402)
 [![Gmail Badge](https://img.shields.io/badge/-ndondadaniel2020@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ndondadaniel2020@gmail.com)](mailto:ndondadaniel2020@gmail.com)
